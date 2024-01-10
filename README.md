@@ -2,7 +2,7 @@ Certainly! Here's a description for the coursework:
 
 ---
 
-**Coursework Description: Resume Screening Application**
+**Project Description: Resume Screening Application**
 
 The Resume Screening Application is a practical project designed to showcase the integration of natural language processing techniques in human resources. This project focuses on creating a Python-based application that automates the initial screening process of resumes for job applications. The project utilizes libraries such as `docx2txt`, `scikit-learn`, and `tkinter` for processing Word documents, implementing text analysis, and building a user interface.
 
