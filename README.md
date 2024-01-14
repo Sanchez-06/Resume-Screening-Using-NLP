@@ -30,7 +30,7 @@ IMPORTANT
 
 The files are:
 
-1. resume screening.ipynb
+1. resume screening application.ipynb
 
 2. job-description.docx
 
