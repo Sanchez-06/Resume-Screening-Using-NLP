@@ -1,4 +1,4 @@
-Certainly! Here's a description for the coursework:
+Here's a description for the coursework:
 
 ---
 
